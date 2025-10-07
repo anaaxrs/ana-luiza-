@@ -2,7 +2,7 @@
 ### Olá! 👋
 
 
-💻 Eu sou a **Luiza**, entusiasta de tecnologia e estudante de Desenvolvimento de Sistemas no SENAI.  
+💻 Eu sou a **Ana Luiza**, entusiasta de tecnologia e estudante de Desenvolvimento de Sistemas no SENAI.  
 Adoro criar coisas que combinam **lógica e criatividade**, desde algoritmos inteligentes. 
 🌱 Atualmente estou aprendendo **C++**, **Python**, **Java** e **Portugol**.  
 🛠 Explorando o mundo de **Inteligência Artificial**, **Cibersegurança** e desenvolvimento de **pequenos projetos web**.  
